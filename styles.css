@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .clock {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+button {
+    font-size: 1em;
+    margin: 10px;
+    padding: 10px 20px;
+  }
+
+
+  body{
+    justify-content: center;
+    text-align: center;
+    transform: rotate(360deg);
+
+    transition: 1 ease-out;
+  }
+
+
+  
